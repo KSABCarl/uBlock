@@ -71,6 +71,9 @@ body[data-forbid~="filteringMode"] .filteringModeSlider {
 body[data-forbid~="dashboard"] #gotoDashboard {
     display: none;
     }
+body[data-forbid~="zapper"] #gotoZapper {
+    display: none;
+    }
 
 #filteringModeText {
     color: var(--ink-3);
